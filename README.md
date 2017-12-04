@@ -43,5 +43,7 @@ Although incidences of credit card fraud are limited to about 0.1% of all card t
 | --- | ---|
 | 1998|-2  |
 | FN  | TN |
+| --- | ---|
 | 0   | 0  |
+
 With the cost-benefit matrix above, it's a good choice to keep the threshold high so that only the top 25% of the targeted "fraud" transactions are being reacted on.
