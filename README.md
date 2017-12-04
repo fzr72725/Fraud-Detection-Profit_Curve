@@ -40,6 +40,7 @@ Although incidences of credit card fraud are limited to about 0.1% of all card t
 
 ### Conclusion
 | TP  | FP |
+| --- | ---|
 | 1998|-2  |
 | FN  | TN |
 | 0   | 0  |
